@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605123837523",
+    "firebase_url": "https://chatfirebase-pedromiquiles.firebaseio.com",
+    "project_id": "chatfirebase-pedromiquiles",
+    "storage_bucket": "chatfirebase-pedromiquiles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605123837523:android:8d16c30273ff71918a50a6",
+        "android_client_info": {
+          "package_name": "com.example.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605123837523-jtg15h40b2asj7pkaunocgn1qj28tdv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatfirebase",
+            "certificate_hash": "da182568458b63c4d7b72ceda7d0ef20b553dcad"
+          }
+        },
+        {
+          "client_id": "605123837523-r2sm5q2fvifd9qunk83cueevr46bqc5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB39EmBZ6putlCjR-Bcp1Mo9MPIubLTV1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605123837523-r2sm5q2fvifd9qunk83cueevr46bqc5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
